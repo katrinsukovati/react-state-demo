@@ -1,0 +1,37 @@
+[
+  {
+    "id": "101",
+    "name": "GardenGuru",
+    "age": 35,
+    "avatar": "https://picsum.photos/200",
+    "description": "An experienced gardener with a love for rare plants and botanical experiments."
+  },
+  {
+    "id": "102",
+    "name": "LeafyLover",
+    "age": 29,
+    "avatar": "https://picsum.photos/200",
+    "description": "City-based plant parent passionate about indoor greenery and sustainable urban living."
+  },
+  {
+    "id": "103",
+    "name": "CactusCraze",
+    "age": 42,
+    "avatar": "https://picsum.photos/200",
+    "description": "A succulent specialist with a collection of over 100 cactus varieties from around the world."
+  },
+  {
+    "id": "104",
+    "name": "BloomBuddy",
+    "age": 22,
+    "avatar": "https://picsum.photos/200",
+    "description": "A floral enthusiast just starting out, with a special interest in roses and orchids."
+  },
+  {
+    "id": "105",
+    "name": "FernFanatic",
+    "age": 31,
+    "avatar": "https://picsum.photos/200",
+    "description": "Loves all things green and leafy, especially ferns, and enjoys creating mini rainforest ecosystems."
+  }
+]
