@@ -3,35 +3,75 @@
     "id": "101",
     "name": "GardenGuru",
     "age": 35,
-    "avatar": "https://picsum.photos/200",
-    "description": "An experienced gardener with a love for rare plants and botanical experiments."
+    "avatar": "https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg?w=300",
+    "description": "An experienced gardener with a love for rare plants and botanical experiments.",
+    "watering": [
+      {
+        "id": "w1",
+        "frequency": "Once a week",
+        "amount": "500ml",
+        "water_type": "Rainwater"
+      }
+    ]
   },
   {
     "id": "102",
     "name": "LeafyLover",
     "age": 29,
-    "avatar": "https://picsum.photos/200",
-    "description": "City-based plant parent passionate about indoor greenery and sustainable urban living."
+    "avatar": "https://hips.hearstapps.com/hmg-prod/images/a-set-of-colorful-potted-plants-on-a-patterned-area-royalty-free-image-1716493110.jpg?crop=0.668xw:1.00xh;0.210xw,0&resize=1200:*",
+    "description": "City-based plant parent passionate about indoor greenery and sustainable urban living.",
+    "watering": [
+      {
+        "id": "w3",
+        "frequency": "Every 3 days",
+        "amount": "250ml",
+        "water_type": "Tap water"
+      }
+    ]
   },
   {
     "id": "103",
     "name": "CactusCraze",
     "age": 42,
-    "avatar": "https://picsum.photos/200",
-    "description": "A succulent specialist with a collection of over 100 cactus varieties from around the world."
+    "avatar": "https://www.planetnatural.com/wp-content/uploads/2023/11/Types-of-Cactus.jpg",
+    "description": "A succulent specialist with a collection of over 100 cactus varieties from around the world.",
+    "watering": [
+      {
+        "id": "w5",
+        "frequency": "Every 3 weeks",
+        "amount": "150ml",
+        "water_type": "Distilled water"
+      }
+    ]
   },
   {
     "id": "104",
     "name": "BloomBuddy",
     "age": 22,
-    "avatar": "https://picsum.photos/200",
-    "description": "A floral enthusiast just starting out, with a special interest in roses and orchids."
+    "avatar": "https://www.easytogrowbulbs.com/cdn/shop/articles/plumeria-for-sale.jpg?v=1557257275&width=1100",
+    "description": "A floral enthusiast just starting out, with a special interest in roses and orchids.",
+    "watering": [
+      {
+        "id": "w7",
+        "frequency": "Twice a week",
+        "amount": "400ml",
+        "water_type": "Tap water"
+      }
+    ]
   },
   {
     "id": "105",
     "name": "FernFanatic",
     "age": 31,
-    "avatar": "https://picsum.photos/200",
-    "description": "Loves all things green and leafy, especially ferns, and enjoys creating mini rainforest ecosystems."
+    "avatar": "https://static.scientificamerican.com/sciam/cache/file/D1E779C2-5585-48B9-B5B8CA83481D212C_source.jpg?w=1200",
+    "description": "Loves all things green and leafy, especially ferns, and enjoys creating mini rainforest ecosystems.",
+    "watering": [
+      {
+        "id": "w9",
+        "frequency": "Every 5 days",
+        "amount": "350ml",
+        "water_type": "Rainwater"
+      }
+    ]
   }
 ]
