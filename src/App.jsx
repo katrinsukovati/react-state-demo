@@ -16,10 +16,13 @@ function App() {
   const plants = plantsData.filter((d) => d !== selected);
 
   return (
-    <>
-      <Nav plants={plants} setSelected={setSelected} />
-      <Details selected={selected} />
-    </>
+    <div className="app">
+      <h1>Welcome to our plants app!</h1>
+      <div className="app__content">
+        <Nav plants={plants} setSelected={setSelected} />
+        <Details selected={selected} />
+      </div>
+    </div>
   );
 }
 

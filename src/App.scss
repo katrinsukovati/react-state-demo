@@ -1,7 +1,28 @@
 img {
   width: 12rem;
+  height: 12rem;
+}
+
+.app {
+  padding: 0 1rem;
 }
 
 .nav {
-  border: 4px solid black;
+  // short hand??
+  flex: 0 0 150px;
+  ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+  }
+}
+
+.app {
+  &__content {
+    display: flex;
+    gap: 5rem;
+  }
 }
